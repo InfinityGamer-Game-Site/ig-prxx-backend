@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/static/nowgg/',
+    prefix: '/pr0xx/',
     bare:'https://skibzy.global.ssl.fastly.net/bear/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
